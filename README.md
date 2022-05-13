@@ -1,6 +1,7 @@
 # Foodies Resturant
 
- *** A web applications to enable customers of restaurants to place orders nd make reservations
+ *** 
+ A web applications to enable customers of restaurants to place orders nd make reservations
 
 ## Built with
 * Html
